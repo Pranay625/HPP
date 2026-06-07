@@ -92,8 +92,7 @@ MIT
 
 ## 👤 Author
 
-Your Name
-
+Pranay Rajesh
 ---
 
 ⭐ Star this repo if you found it helpful!

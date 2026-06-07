@@ -71,9 +71,9 @@ The backend URL is configured using environment variables:
 NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
 ```
 
-**Production (Vercel, Netlify, etc.):**
+**Production (Railway):**
 ```
-NEXT_PUBLIC_BACKEND_URL=https://your-backend-api.com
+NEXT_PUBLIC_BACKEND_URL=https://hpp-production-815d.up.railway.app
 ```
 
 ### Updating Backend URL for Deployment
